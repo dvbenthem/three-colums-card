@@ -118,7 +118,7 @@ a{
     align-items: center;
   }
   .grid{
-    grid-template-columns: repeat(3, 33rem);
+    grid-template-columns: repeat(3, 330px);
   }
   .container{
     max-width: 144rem;
