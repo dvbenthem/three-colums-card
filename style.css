@@ -86,7 +86,7 @@ a{
   line-height: 1.6;
 }
 .btn{
-  font-family: "Lexend Deca, sans-serif;
+  font-family: "Lexend Deca", sans-serif;
   background-color: var(--very-light-gray);
   border-radius: 100px;
   padding: .75rem 1.5rem;
