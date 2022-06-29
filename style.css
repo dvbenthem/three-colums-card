@@ -140,17 +140,7 @@ a{
   }
 }
 
+/* FOOTER LIKE */
 
-
-
-
-
-
-
-
-
-
-
-
-.attribution { font-family: "Lexend"; font-size: 11px; text-align: center; }
+.attribution { font-family: "Lexend Deca", sans-serif; font-size: 11px; text-align: center; }
 .attribution a { color: var(--bright-oranje); }
