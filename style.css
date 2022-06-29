@@ -15,7 +15,7 @@
 } */
 /* -------------------------------------------------------------------------------------- */
 
-@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap'); */
 
 /* CUSTOM PROPERTIES */
 :root{
@@ -75,18 +75,18 @@ a{
 }
 .car-item h2{
   font-size: 2.8rem;
-  font-family: "Shoulders";
+  font-family: "Big Shoulders Display", cursive;
   text-transform: uppercase;
   color: var(--very-light-gray);
   margin-block: 2rem;
 }
 .car-item p{
-  font-family: "Lexend";
+  font-family: "Lexend Deca", sans-serif;
   color: var(--transparent-white);
   line-height: 1.6;
 }
 .btn{
-  font-family: "Lexend";
+  font-family: "Lexend Deca, sans-serif;
   background-color: var(--very-light-gray);
   border-radius: 100px;
   padding: .75rem 1.5rem;
