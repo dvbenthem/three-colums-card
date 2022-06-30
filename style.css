@@ -71,7 +71,7 @@ a{
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px;
 }
-.car-item h2{
+.car-item h1{
   font-size: 2.8rem;
   font-family: "Big Shoulders Display", cursive;
   text-transform: uppercase;
@@ -138,7 +138,7 @@ a{
   }
 }
 
-/* FOOTER LIKE */
+/* FOOTER */
 
 .attribution { font-family: "Lexend Deca", sans-serif; font-size: 11px; text-align: center; }
 .attribution a { color: var(--bright-oranje); }
